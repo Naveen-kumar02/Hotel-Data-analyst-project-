@@ -18,5 +18,13 @@ The Project uses the following datasets:
 5. **Fact_Aggregated_Booking** : Aggregated Bookings data by preperty, room category and date.
 
 ### **Schema Highlights**
-- **Fact_Bookings:
+- **Fact_Bookings**:
 `booking_id`,`preperty_id`,`booking_date`,`check_in_date`,`checkout_date`,`no_guests`,`room_category`,`booking_platform`,`rating_given`,`booking_status`,`revenue_generated`,`revenue_realized`
+- **Dim_Dates**:
+`date`,`mmm yy`,`week no`,`day_type`
+- **Dim_Hotels**:
+`preperty_id`,`prepoerty_name`,`category`,`city`
+-**Dim_Rooms**:
+`room_id`,`room_class`
+-**Fact_Aggregated_Bookings**:
+`preperty_id`,`check_in_date`,`room_category`,`successful_bookings`,`capacity`
