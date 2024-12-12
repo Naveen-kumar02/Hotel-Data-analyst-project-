@@ -24,7 +24,7 @@ The Project uses the following datasets:
 `date`,`mmm yy`,`week no`,`day_type`
 - **Dim_Hotels**:
 `preperty_id`,`prepoerty_name`,`category`,`city`
--**Dim_Rooms**:
+- **Dim_Rooms**:
 `room_id`,`room_class`
--**Fact_Aggregated_Bookings**:
+- **Fact_Aggregated_Bookings**:
 `preperty_id`,`check_in_date`,`room_category`,`successful_bookings`,`capacity`
