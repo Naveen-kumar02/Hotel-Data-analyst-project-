@@ -1,0 +1,9 @@
+The following business Question were addressed in the analysis: 
+
+1) What is the average occupancy rate for each room category 
+2) what is the average occupancy rate per city
+3) when was occupancy better-weekends or weekdays?
+4) what is the occupancy for different cities in June?
+5) what is the revenue realized per city?
+6) What is the month by month revenue trend?
+7) What is the revenue realized for each 'mmm yy' column? 
