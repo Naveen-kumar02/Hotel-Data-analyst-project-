@@ -28,3 +28,5 @@ The Project uses the following datasets:
 `room_id`,`room_class`
 - **Fact_Aggregated_Bookings**:
 `preperty_id`,`check_in_date`,`room_category`,`successful_bookings`,`capacity`
+
+## Check out the business questions [here](Python_question.txt)
