@@ -31,3 +31,8 @@ The Project uses the following datasets:
 
 ## Business questions 
 Check out the business questions [here](Python_question.txt)
+
+## Connect with Me
+
+[LinkedIn Profile](https://www.linkedin.com/in/naveenkumar2024/)
+
